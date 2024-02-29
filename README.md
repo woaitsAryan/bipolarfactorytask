@@ -1,6 +1,6 @@
 # Bipolar factory internship task
 
-This project consists of a Next.js frontend and a FastAPI backend.
+This project consists of a Next.js frontend and a FastAPI backend. Hosted at https://bipolar.aryanbharti.com/
 
 ## Running the Frontend
 
