@@ -26,7 +26,7 @@ export default function Component() {
           </div>
           <div className="space-y-2">
             <Label htmlFor="state">State</Label>
-            <Select id="state">
+            <Select>
               <option>Choose a state</option>
               <option>Andhra Pradesh</option>
               <option>Arunachal Pradesh</option>
@@ -88,7 +88,7 @@ export default function Component() {
   )
 }
 
-function CalendarIcon(props) {
+function CalendarIcon(props: any) {
   return (
     <svg
       {...props}
@@ -111,7 +111,7 @@ function CalendarIcon(props) {
 }
 
 
-function ClockIcon(props) {
+function ClockIcon(props: any) {
   return (
     <svg
       {...props}
