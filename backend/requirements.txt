@@ -1,0 +1,8 @@
+fastapi
+pydantic
+jose
+typing
+datetime
+passlib
+pymongo
+dotenv
