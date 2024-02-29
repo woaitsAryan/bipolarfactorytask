@@ -5,4 +5,4 @@ typing
 datetime
 passlib
 pymongo
-dotenv
+python-dotenv
